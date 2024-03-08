@@ -29,13 +29,12 @@ import java.util.*;
 ***************************************************/
   
 /**************** TEST CASES ************************
-*Test      Input      Desired Ouput
-*Input: 1, 1, 1      Output: $65.0
-*Input: 30, 10, 15   Output: $63.09
-*Input: 50, 50, 50   Output: $61.17
-*Input: 10, 30, 15   Output: $63.82
-*Input: 10, 10, 90   Output: $66.14
-*
+*Test      Input      Desired Output     Real Output
+*Input: 1, 1, 1      Output: $65.0      Output: $65.0
+*Input: 30, 10, 15   Output: $63.09     Output: $63.09
+*Input: 50, 50, 50   Output: $61.17     Output: $61.17
+*Input: 10, 30, 15   Output: $63.82     Output: $63.82
+*Input: 10, 10, 90   Output: $66.14     Output: $66.14
 ***************************************************/
 public class DesignProjectOne {
 
